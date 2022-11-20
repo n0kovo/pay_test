@@ -16,8 +16,8 @@ import (
 	"github.com/onrik/ethrpc"
 
 	"github.com/n0kovo/pay_test/apis/etherscan"
-	contract_registry "github.com/n0kovo/pay_test/Tochka/tochka-ethereum-contracts/contracts/golang/registry"
-	"github.com/n0kovo/pay_test/Tochka/tochka-ethereum-contracts/contracts/golang/tochka_escrow_payment"
+	contract_registry "github.com/n0kovo/cont_test/contracts/golang/registry"
+	"github.com/n0kovo/cont_test/contracts/golang/tochka_escrow_payment"
 )
 
 /*
