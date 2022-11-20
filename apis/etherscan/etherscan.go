@@ -6,8 +6,8 @@ import (
 
 	"encoding/json"
 
-	"qxklmrhx7qkzais6.onion/Tochka/payaka-payment-gate/apis"
-	"qxklmrhx7qkzais6.onion/Tochka/payaka-payment-gate/settings"
+	"github.com/n0kovo/pay_test/apis"
+	"github.com/n0kovo/pay_test/settings"
 )
 
 type EtherscanPushTransactionResponse struct {

@@ -3,7 +3,7 @@ package bitcoincash
 import (
 	"github.com/helloyi/go-waitgroup"
 
-	"qxklmrhx7qkzais6.onion/Tochka/payaka-payment-gate/db"
+	"github.com/n0kovo/pay_test/db"
 )
 
 func UpdateBitcoinCashWalletBalances() {

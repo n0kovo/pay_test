@@ -13,10 +13,10 @@ import (
 	"github.com/ethereum/go-ethereum/crypto"
 	"github.com/onrik/ethrpc"
 
-	"qxklmrhx7qkzais6.onion/Tochka/payaka-payment-gate/apis/etherscan"
-	"qxklmrhx7qkzais6.onion/Tochka/payaka-payment-gate/db"
-	"qxklmrhx7qkzais6.onion/Tochka/payaka-payment-gate/settings"
-	"qxklmrhx7qkzais6.onion/Tochka/tochka-ico/contracts"
+	"github.com/n0kovo/pay_test/apis/etherscan"
+	"github.com/n0kovo/pay_test/db"
+	"github.com/n0kovo/pay_test/settings"
+	"github.com/n0kovo/pay_test/Tochka/tochka-ico/contracts"
 )
 
 /*

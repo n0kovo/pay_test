@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"strings"
 
-	"qxklmrhx7qkzais6.onion/Tochka/payaka-payment-gate/apis"
+	"github.com/n0kovo/pay_test/apis"
 )
 
 const CRYPTOCOMPARE_RATES_URL = "https://min-api.cryptocompare.com/data/price?fsym={base_currency}&tsyms=USD,RUB,EUR,GBP,AUD,ETH,BTC"

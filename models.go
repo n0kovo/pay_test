@@ -1,10 +1,10 @@
 package main
 
 import (
-	"qxklmrhx7qkzais6.onion/Tochka/payaka-payment-gate/cryptocurrencies/bitcoin"
-	"qxklmrhx7qkzais6.onion/Tochka/payaka-payment-gate/cryptocurrencies/bitcoincash"
-	"qxklmrhx7qkzais6.onion/Tochka/payaka-payment-gate/cryptocurrencies/ethereum"
-	"qxklmrhx7qkzais6.onion/Tochka/payaka-payment-gate/db"
+	"github.com/n0kovo/pay_test/cryptocurrencies/bitcoin"
+	"github.com/n0kovo/pay_test/cryptocurrencies/bitcoincash"
+	"github.com/n0kovo/pay_test/cryptocurrencies/ethereum"
+	"github.com/n0kovo/pay_test/db"
 )
 
 func SyncDatabase() {

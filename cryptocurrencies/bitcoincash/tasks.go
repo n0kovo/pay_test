@@ -3,7 +3,7 @@ package bitcoincash
 import (
 	"time"
 
-	"qxklmrhx7qkzais6.onion/Tochka/payaka-payment-gate/settings"
+	"github.com/n0kovo/pay_test/settings"
 )
 
 func TaskUpdateBitcoinCashWalletBalances() {

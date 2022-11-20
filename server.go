@@ -5,7 +5,7 @@ import (
 	"github.com/gocraft/web"
 	"net/http"
 
-	"qxklmrhx7qkzais6.onion/Tochka/payaka-payment-gate/settings"
+	"github.com/n0kovo/pay_test/settings"
 )
 
 type Context struct {

@@ -26,9 +26,9 @@ These instructions will get you a copy of the project up and running on your loc
 To get Payaka running:
 ```
 # 1. Get Payaka source code
-torsocks go get -insecure qxklmrhx7qkzais6.onion/Tochka/payaka-payment-gate
+torsocks go get -insecure github.com/n0kovo/pay_test
 # 2. Build Tochka from source
-cd $GOPATH/src/qxklmrhx7qkzais6.onion/Tochka/payaka-payment-gate
+cd $GOPATH/src/github.com/n0kovo/pay_test
 go build
 # 3. Edit settings
 cp settings.json.example settings.json

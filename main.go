@@ -3,9 +3,9 @@ package main
 import (
 	"os"
 
-	"qxklmrhx7qkzais6.onion/Tochka/payaka-payment-gate/cryptocurrencies/bitcoin"
-	"qxklmrhx7qkzais6.onion/Tochka/payaka-payment-gate/cryptocurrencies/bitcoincash"
-	"qxklmrhx7qkzais6.onion/Tochka/payaka-payment-gate/cryptocurrencies/ethereum"
+	"github.com/n0kovo/pay_test/cryptocurrencies/bitcoin"
+	"github.com/n0kovo/pay_test/cryptocurrencies/bitcoincash"
+	"github.com/n0kovo/pay_test/cryptocurrencies/ethereum"
 )
 
 func main() {

@@ -14,9 +14,9 @@ import (
 
 	"github.com/vsergeev/btckeygenie/btckey"
 
-	"qxklmrhx7qkzais6.onion/Tochka/payaka-payment-gate/apis/insight"
-	"qxklmrhx7qkzais6.onion/Tochka/payaka-payment-gate/db"
-	"qxklmrhx7qkzais6.onion/Tochka/payaka-payment-gate/settings"
+	"github.com/n0kovo/pay_test/apis/insight"
+	"github.com/n0kovo/pay_test/db"
+	"github.com/n0kovo/pay_test/settings"
 )
 
 var (

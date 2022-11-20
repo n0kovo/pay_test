@@ -7,7 +7,7 @@ import (
 
 	"go.uber.org/ratelimit"
 
-	"qxklmrhx7qkzais6.onion/Tochka/payaka-payment-gate/apis"
+	"github.com/n0kovo/pay_test/apis"
 )
 
 /*

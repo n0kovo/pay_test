@@ -3,12 +3,12 @@ package main
 import (
 	"github.com/gocraft/web"
 
-	"qxklmrhx7qkzais6.onion/Tochka/payaka-payment-gate/cryptocurrencies"
-	"qxklmrhx7qkzais6.onion/Tochka/payaka-payment-gate/cryptocurrencies/bitcoin"
-	"qxklmrhx7qkzais6.onion/Tochka/payaka-payment-gate/cryptocurrencies/bitcoincash"
-	"qxklmrhx7qkzais6.onion/Tochka/payaka-payment-gate/cryptocurrencies/ethereum"
+	"github.com/n0kovo/pay_test/cryptocurrencies"
+	"github.com/n0kovo/pay_test/cryptocurrencies/bitcoin"
+	"github.com/n0kovo/pay_test/cryptocurrencies/bitcoincash"
+	"github.com/n0kovo/pay_test/cryptocurrencies/ethereum"
 
-	"qxklmrhx7qkzais6.onion/Tochka/payaka-payment-gate/exchange"
+	"github.com/n0kovo/pay_test/exchange"
 )
 
 func ConfigureRouter(router *web.Router) *web.Router {
